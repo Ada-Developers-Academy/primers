@@ -1,0 +1,1 @@
+This is a placeholder for a Whitney's primer on Test Driven Development in Rails using RSpec.
