@@ -4,7 +4,7 @@ First thing's first: __JavaScript ≠ Java__. Besides being somewhat syntactical
 
 Ok. So. JavaScript.
 
-![](https://github.com/Ada-Developers-Academy/primers/images/example_js.png)
+![](https://github.com/Ada-Developers-Academy/primers/blob/master/images/example_js.png)
 
 Look at all those curly braces! And indentations! And semicolons! 
 
