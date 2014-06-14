@@ -1,4 +1,4 @@
-Main difference between Rails and Django:  
+**The main difference between Rails and Django:** 
 
 ![](https://pp.vk.me/c613521/v613521146/cacf/XIzMk1PMQsQ.jpg "bcvb")
 
