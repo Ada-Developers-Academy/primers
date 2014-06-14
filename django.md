@@ -1,5 +1,7 @@
 Just Putting all the recources here for now:
 
+Main Rails and Django difference:
+![](https://pp.vk.me/c613521/v613521146/cacf/XIzMk1PMQsQ.jpg "bcvb")
 
 Transferring from Rails to Django:
 https://netguru.co/blog/posts/first-steps-in-django-from-rails-guy-perspective-part-1
