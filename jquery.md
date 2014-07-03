@@ -4,7 +4,7 @@ First thing's first: __JavaScript ≠ Java__. Besides being somewhat syntactical
 
 Ok. So. JavaScript.
 
-```ruby
+```javascript
 def hello
 end
 ```
