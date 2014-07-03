@@ -4,11 +4,6 @@ First thing's first: __JavaScript ≠ Java__. Besides being somewhat syntactical
 
 Ok. So. JavaScript.
 
-```javascript
-def hello
-end
-```
-
 ![](https://raw.githubusercontent.com/Ada-Developers-Academy/primers/master/images/example_js.png)
 
 Look at all those curly braces! And indentations! And semicolons! 
