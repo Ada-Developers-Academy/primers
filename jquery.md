@@ -1,14 +1,14 @@
 _This is Audrey's thing about JavaScript. (Although, let's be real, this will most likely just be a thing about jQuery.)_
 
-First thing's first: __JavaScript ≠ Java__. Besides being somewhat syntactically similar, they are pretty much unrelated. So if you're hoping to learn more about the object-oriented, platform-independent programming language known as Java, I recommend you head over to Blake's [primer](https://github.com/Ada-Developers-Academy/primers/blob/master/java.md) instead.
+First thing's first: __JavaScript ≠ Java__. Let me say that again. __JavaScript is NOT the same thing as Java.__ Besides being somewhat syntactically similar, they are pretty much unrelated. So if you're hoping to learn more about the object-oriented, platform-independent programming language known as Java, I recommend you head over to Blake's [primer](https://github.com/Ada-Developers-Academy/primers/blob/master/java.md) instead.
 
 Ok. So. JavaScript.
 
-![](https://github.com/Ada-Developers-Academy/primers/blob/master/images/example_js.png)
+![](https://raw.githubusercontent.com/Ada-Developers-Academy/primers/master/images/example_js.png)
 
 Look at all those curly braces! And indentations! And semicolons! 
 
-JavaScript is admittedly pretty weird-looking (let's not forget it was written in 10 days...), and if you're new to the language, your eyes might be hurting a little bit right now. 
+JavaScript is admittedly pretty weird-looking (let's not forget it was [written in 10 days](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)...), and if you're new to the language, your eyes might be hurting a little bit right now. 
 
 Let's break down some of JavaScript's basic syntactic features:
 
