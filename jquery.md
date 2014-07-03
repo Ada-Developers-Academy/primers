@@ -2,7 +2,7 @@ _This is Audrey's thing about JavaScript. (Although, let's be real, this will mo
 
 First thing's first: __JavaScript ≠ Java__. Let me say that again. __JavaScript is NOT the same thing as Java.__ Besides being somewhat syntactically similar, they are pretty much unrelated. So if you're hoping to learn more about the object-oriented, platform-independent programming language known as Java, I recommend you head over to Blake's [primer](https://github.com/Ada-Developers-Academy/primers/blob/master/java.md) instead.
 
-Ok. So. JavaScript.
+Ok. So. JavaScript. It does magical things in web browsers and by interacting with users and dynamically altering the content of web pages. Here's what it looks like:
 
 ![](https://raw.githubusercontent.com/Ada-Developers-Academy/primers/master/images/example_js.png)
 
