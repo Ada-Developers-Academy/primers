@@ -8,7 +8,7 @@ Ok. So. JavaScript.
 
 Look at all those curly braces! And indentations! And semicolons! 
 
-JavaScript is admittedly pretty weird-looking (let's not forget it was written in 10 days...), and if you're new to the language, your eyes might be hurting a little bit right now. 
+JavaScript is admittedly pretty weird-looking (let's not forget it was ![](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) written in 10 days...), and if you're new to the language, your eyes might be hurting a little bit right now. 
 
 Let's break down some of JavaScript's basic syntactic features:
 
