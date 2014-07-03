@@ -1,6 +1,6 @@
 _This is Audrey's thing about JavaScript. (Although, let's be real, this will most likely just be a thing about jQuery.)_
 
-First thing's first: __JavaScript ≠ Java__. Besides being somewhat syntactically similar, they are pretty much unrelated. So if you're hoping to learn more about the object-oriented, platform-independent programming language known as Java, I recommend you head over to Blake's [primer](https://github.com/Ada-Developers-Academy/primers/blob/master/java.md) instead.
+First thing's first: __JavaScript ≠ Java__. Again, JavaScript is NOT the same thing as Java. Besides being somewhat syntactically similar, they are pretty much unrelated. So if you're hoping to learn more about the object-oriented, platform-independent programming language known as Java, I recommend you head over to Blake's [primer](https://github.com/Ada-Developers-Academy/primers/blob/master/java.md) instead.
 
 Ok. So. JavaScript.
 
