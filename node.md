@@ -12,8 +12,10 @@ Node.js is an event-driven programming model for server-side JavaScript. In addi
   - Single-threaded
   - Non-blocking
   - Server-side JavaScript
+
+To better understand the non-blocking, event-driven nature of node checkout this awesome [article] that breaks it down.
  
-Node.js uses the event-driven I/O and handles it with an Event Loop. Event Loop is a construct that waits for and dispatches events or messages in a program.  
+Node.js uses the event-driven I/O and handles it with an Event Loop. Event Loop is a construct that waits for and dispatches events or messages in a program. For the visual learners view the diagram below:
 
  
 
@@ -87,3 +89,4 @@ Here are some other resources to check out to learn more about node:
 [keymaster.js]:https://github.com/madrobby/keymaster
 [jQuery]:http://jquery.com
 [express]:http://expressjs.com
+[article]:http://code.danyork.com/2011/01/25/node-js-doctors-offices-and-fast-food-restaurants-understanding-event-driven-programming/
