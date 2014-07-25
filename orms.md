@@ -40,7 +40,7 @@ http://docs.sqlalchemy.org/en/rel_0_9/orm/extensions/declarative.html
         id = Column(Integer, primary_key=True)
         name =  Column(String(50))
 
-[1] *Specifically, the creation of a [Table](http://docs.sqlalchemy.org/en/rel_0_9/core/metadata.html#sqlalchemy.schema.Table) and [mapper()](http://docs.sqlalchemy.org/en/rel_0_9/orm/mapper_config.html#sqlalchemy.orm.mapper) object
+[1] *Specifically, the creation of a [Table](http://docs.sqlalchemy.org/en/rel_0_9/core/metadata.html#sqlalchemy.schema.Table) and [mapper()](http://docs.sqlalchemy.org/en/rel_0_9/orm/mapper_config.html#sqlalchemy.orm.mapper) objects.
 
 ## Connecting to database
 
